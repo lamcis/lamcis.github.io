@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Hexo</title>
+  <icon>https://lamcis.github.io/icon.png</icon>
+  <subtitle>123</subtitle>
+  <link href="https://lamcis.github.io/atom.xml" rel="self"/>
+  
+  <link href="https://lamcis.github.io/"/>
+  <updated>2023-09-21T11:22:57.759Z</updated>
+  <id>https://lamcis.github.io/</id>
+  
+  <author>
+    <name>toreday</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>歌曲存档</title>
+    <link href="https://lamcis.github.io/2023/09/20/%E6%AD%8C%E6%9B%B2%E5%AD%98%E6%A1%A3/"/>
+    <id>https://lamcis.github.io/2023/09/20/%E6%AD%8C%E6%9B%B2%E5%AD%98%E6%A1%A3/</id>
+    <published>2023-09-19T16:59:13.000Z</published>
+    <updated>2023-09-21T11:22:57.759Z</updated>
+    
+    
+    <summary type="html">&lt;p&gt;百度网盘的歌曲存档&lt;br&gt;链接:&lt;a href=&quot;https://pan.baidu.com/s/1IPKahaEWhN7cGRqdrnyoEw&quot;&gt;https://pan.baidu.com/s/1IPKahaEWhN7cGRqdrnyoEw&lt;/a&gt;&lt;br&gt;提取码:x756&lt;/p&gt;</summary>
+    
+    
+    
+    
+    <category term="反歧" scheme="https://lamcis.github.io/tags/%E5%8F%8D%E6%AD%A7/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>小议爱与自由</title>
+    <link href="https://lamcis.github.io/2023/07/23/%E5%B0%8F%E8%AE%AE%E7%88%B1%E4%B8%8E%E8%87%AA%E7%94%B1/"/>
+    <id>https://lamcis.github.io/2023/07/23/%E5%B0%8F%E8%AE%AE%E7%88%B1%E4%B8%8E%E8%87%AA%E7%94%B1/</id>
+    <published>2023-07-23T07:29:54.000Z</published>
+    <updated>2023-07-23T07:54:23.528Z</updated>
+    
+    
+    <summary type="html">&lt;p&gt;&lt;strong&gt;No.1&lt;/strong&gt; &lt;strong&gt;小议爱和自由&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;&lt;strong&gt;&amp;#x2F;2021.12.24&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;想做一个对社会、人类、他人有用的人是利他主义吗？&lt;/p&gt;
+&lt;p&gt;前提是，我们可以在帮助他人实现自己愿望的行动的基础上建构自我的意义。&lt;/p&gt;</summary>
+    
+    
+    
+    
+    <category term="音乐探索" scheme="https://lamcis.github.io/tags/%E9%9F%B3%E4%B9%90%E6%8E%A2%E7%B4%A2/"/>
+    
+  </entry>
+  
+</feed>
